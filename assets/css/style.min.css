@@ -433,7 +433,7 @@ body.lock {
 
 .header {
   background-color: #213872;
-  background-image: url(assets/images/bgimg.jpg);
+  background-image: url(../images/bgimg.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -498,14 +498,14 @@ body.lock {
   margin-bottom: 4rem;
 }
 .skills__text_item::before {
-  content: url(./images/check.svg);
+  content: url(../images/check.svg);
   padding: 1rem;
 }
 .skills__slider {
   padding: 5rem 0 1rem;
 }
 .skills__slide_text::after {
-  content: url(./images/php.svg);
+  content: url(../images/php.svg);
   margin: auto;
 }
 
@@ -595,7 +595,7 @@ body.lock {
   font-weight: 600;
 }
 .contacts__subtitle::before {
-  content: url(./images/teg.svg);
+  content: url(../images/teg.svg);
   padding: 2rem;
 }
 .contacts__inner {
@@ -767,7 +767,7 @@ body.lock {
     font-weight: 700;
   }
   .skills__slide_text::after {
-    content: url(./images/phpsmall.svg);
+    content: url(../images/phpsmall.svg);
   }
   .skills__slide_text {
     font-size: 18px;

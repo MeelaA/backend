@@ -432,7 +432,8 @@ body.lock {
 }
 
 .header {
-  background-image: url(./images/bgimg.jpg);
+  background-color: #213872;
+  background-image: url(assets/images/bgimg.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
